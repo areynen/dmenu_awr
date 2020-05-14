@@ -1,3 +1,9 @@
+My hacked on version of dmenu:
+implemented diffs are as follows: 
+
+* Center: 
+    https://tools.suckless.org/dmenu/patches/center/
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
