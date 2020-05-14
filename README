@@ -7,8 +7,10 @@ implemented diffs are as follows:
     https://tools.suckless.org/dmenu/patches/numbers/
 * FuzzySearch
     https://tools.suckless.org/dmenu/patches/fuzzymatch/
-* xresources
+* Xresources
     https://tools.suckless.org/dmenu/patches/xresources/
+* Line Height
+    https://tools.suckless.org/dmenu/patches/line-height/
 
 dmenu - dynamic menu
 ====================
