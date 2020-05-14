@@ -11,6 +11,8 @@ implemented diffs are as follows:
     https://tools.suckless.org/dmenu/patches/xresources/
 * Line Height
     https://tools.suckless.org/dmenu/patches/line-height/
+* Mouse Support
+    https://tools.suckless.org/dmenu/patches/mouse-support/
 
 dmenu - dynamic menu
 ====================
