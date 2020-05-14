@@ -5,6 +5,8 @@ implemented diffs are as follows:
     https://tools.suckless.org/dmenu/patches/center/
 * Numbers:
     https://tools.suckless.org/dmenu/patches/numbers/
+* FuzzySearch
+    https://tools.suckless.org/dmenu/patches/fuzzymatch/
 
 dmenu - dynamic menu
 ====================
