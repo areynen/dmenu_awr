@@ -17,6 +17,9 @@ implemented diffs are as follows:
     https://tools.suckless.org/dmenu/patches/preselect/
 * Border
     https://tools.suckless.org/dmenu/patches/border/
+* Transparency
+    Adapted from Luke Smith:
+    https://github.com/LukeSmithxyz/dmenu/commit/d1a3c6cd1f8c84109ac181c8a7dbb29181862aea?diff=split
 
 dmenu - dynamic menu
 ====================
