@@ -10,7 +10,7 @@ static const char *fonts[] = {
 	"monospace:size=10"
 };
 
-static const unsigned int bgalpha = 0xe0;
+static const unsigned int bgalpha = 0xcc;
 static const unsigned int fgalpha = OPAQUE;
 
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */

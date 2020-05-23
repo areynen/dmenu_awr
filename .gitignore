@@ -1,0 +1,11 @@
+*diff
+.vscode/
+dmenu
+dmenu.o
+util.o
+drw.o
+stest
+stest.o
+*.orig
+*.rej
+
