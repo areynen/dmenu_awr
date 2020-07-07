@@ -6,9 +6,7 @@ static int centered = 0;                    /* -c option; centers dmenu on scree
 static int fuzzy = 1;                      /* -F  option; if 0, dmenu doesn't use fuzzy matching     */
 static int min_width = 500;                    /* minimum width when centered */
 /* -fn option overrides fonts[0]; default X11 font or font set */
-static const char *fonts[] = {
-	"monospace:size=10"
-};
+static const char *fonts[]          = { "monospace:size=10", "Noto Color Emoji:pixelsize=10:antialias=true:autohint=true"  };
 
 static const unsigned int bgalpha = 0xcc;
 static const unsigned int fgalpha = OPAQUE;
